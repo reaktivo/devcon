@@ -12,10 +12,10 @@ Devcon is written in coffeescript by [Marcel Miranda](http://reaktivo.com).
 
 ## Usage
 
-  process.env.NODE_ENV = "production"
-  console.dev.log("Hello world!") // Is silent
+    process.env.NODE_ENV = "production"
+    console.dev.log("Hello world!") // Is silent
 
-  process.env.NODE_ENV = "anything_other_than_production"
-  console.dev.log("Hello world!") // Is equivalent to console.log
+    process.env.NODE_ENV = "anything_other_than_production"
+    console.dev.log("Hello world!") // Is equivalent to console.log
 
 Copyright © 2012 Marcel Miranda. See LICENSE for further details.
