@@ -2,9 +2,10 @@
   "author": "Marcel Miranda Ackerman <m@reaktivo.com> (http://reaktivo.com)",
   "name": "devcon",
   "description": "Devcon extends console for development",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
-    "url": ""
+    "type": "git",
+    "url": "git://github.com/reaktivo/devcon.git"
   },
   "scripts": {
     "pretest": "cake build",
