@@ -1,5 +1,7 @@
 # Devcon
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/reaktivo/devcon.svg)](https://greenkeeper.io/)
+
 Devcon adds a property called `dev` to Node's console object, which wraps each `console` method with a check if its running on a production environment.
 Devcon is written in coffeescript by [Marcel Miranda](http://reaktivo.com).
 
